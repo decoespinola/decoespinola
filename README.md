@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Is very god !
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
